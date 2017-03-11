@@ -1,2 +1,4 @@
 # hello-world
-This is my repository for Git Hub.
+Hello Earthlings.
+
+I've made a couple of changes here just to get into the swing of this branching thing.
